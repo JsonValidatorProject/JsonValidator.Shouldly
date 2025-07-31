@@ -31,7 +31,7 @@
 
   <ItemGroup>
     <PackageReference Include="JsonValidator" Version="1.1.5" />
-    <PackageReference Include="Shouldly" Version="[4.0.0,5.0.0)" />
+    <PackageReference Include="Shouldly" Version="[4.2.0,5.0.0)" />
   </ItemGroup>
 
   <!-- Included for NuGet -->
