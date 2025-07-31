@@ -9,7 +9,7 @@ public static class JsonDocumentAssertions
     private const string BasicErrorMessage = "Expected JSON object to match the given object.";
 
     /// <summary>
-    /// Checks whether the json document matches the input object in both structure and values.
+    /// Checks whether the JSON document matches the input object in both structure and values.
     /// </summary>
     /// <param name="jsonDocument">The <see cref="JsonDocument"/> to validate</param>
     /// <param name="expected">The expected value as an anonymous object</param>
